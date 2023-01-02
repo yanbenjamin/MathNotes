@@ -4,7 +4,3 @@ My typed notes from various courses I took in college, including
 > Math 115: Functions of a Real Variable \
 > Math 108: Intro to Combinatorics 
 
-Also, here's a photo of my cat Pumpkin. 
-<br/>
-![image](catphoto.png)
-
